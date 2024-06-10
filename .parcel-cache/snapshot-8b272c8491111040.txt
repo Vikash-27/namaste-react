@@ -23,7 +23,7 @@
 84C:\Users\HP\Desktop\Namaste-react\node_modules\@parcel\runtime-js\src\helpers\worker133623076990364334 1
 71C:\Users\HP\Desktop\Namaste-react\node_modules\cosmiconfig\dist\util.js133623076965344062 0
 103C:\Users\HP\Desktop\Namaste-react\node_modules\css-select\node_modules\entities\lib\esm\decode.d.ts.map133623077002408603 0
-38C:\Users\HP\Desktop\Namaste-react\dist133624951474596078 1
+38C:\Users\HP\Desktop\Namaste-react\dist133624962277080033 1
 95C:\Users\HP\Desktop\Namaste-react\node_modules\react\cjs\react-jsx-dev-runtime.profiling.min.js133623106429636586 0
 84C:\Users\HP\Desktop\Namaste-react\node_modules\caniuse-lite\data\features\wasm-gc.js133623076996719071 0
 103C:\Users\HP\Desktop\Namaste-react\node_modules\@parcel\package-manager\test\fixtures\empty\package.json133623077006004741 0
@@ -58,7 +58,7 @@
 71C:\Users\HP\Desktop\Namaste-react\node_modules\node-addon-api\README.md133623076968306842 0
 64C:\Users\HP\Desktop\Namaste-react\node_modules\error-ex\index.js133623076959278377 0
 91C:\Users\HP\Desktop\Namaste-react\node_modules\caniuse-lite\data\features\object-observe.js133623076992139065 0
-44C:\Users\HP\Desktop\Namaste-react\index.html133624923885638986 0
+44C:\Users\HP\Desktop\Namaste-react\index.html133624962261362735 0
 75C:\Users\HP\Desktop\Namaste-react\node_modules\posthtml-parser\package.json133623076963239485 0
 78C:\Users\HP\Desktop\Namaste-react\node_modules\caniuse-lite\data\regions\NF.js133623076991887975 0
 69C:\Users\HP\Desktop\Namaste-react\node_modules\scheduler\package.json133623107468203325 0
@@ -1472,7 +1472,7 @@
 85C:\Users\HP\Desktop\Namaste-react\node_modules\scheduler\umd\scheduler.development.js133623107468083744 0
 65C:\Users\HP\Desktop\Namaste-react\node_modules\htmlnano\README.md133623076976342317 0
 88C:\Users\HP\Desktop\Namaste-react\node_modules\scheduler\umd\scheduler.production.min.js133623107468122968 0
-60C:\Users\HP\Desktop\Namaste-react\dist\index.7826abd7.js.map133624951474576072 0
+60C:\Users\HP\Desktop\Namaste-react\dist\index.7826abd7.js.map133624962277070043 0
 112C:\Users\HP\Desktop\Namaste-react\node_modules\css-select\node_modules\entities\lib\generated\encode-html.js.map133623077002638254 0
 91C:\Users\HP\Desktop\Namaste-react\node_modules\lmdb\dependencies\v8\v8-fast-api-calls-v16.h133623076979926427 0
 81C:\Users\HP\Desktop\Namaste-react\node_modules\electron-to-chromium\versions.json133623076964681486 0
@@ -2143,7 +2143,7 @@
 78C:\Users\HP\Desktop\Namaste-react\node_modules\caniuse-lite\data\regions\MW.js133623076991644148 0
 102C:\Users\HP\Desktop\Namaste-react\node_modules\@parcel\core\test\fixtures\invalid-engines\package.json133623077015367802 0
 100C:\Users\HP\Desktop\Namaste-react\node_modules\lmdb\node_modules\node-addon-api\package-support.json133623077005330853 0
-56C:\Users\HP\Desktop\Namaste-react\dist\index.7826abd7.js133624951474421925 0
+56C:\Users\HP\Desktop\Namaste-react\dist\index.7826abd7.js133624962276980129 0
 108C:\Users\HP\Desktop\Namaste-react\node_modules\css-select\node_modules\entities\lib\generated\encode-html.js133623077001658322 0
 99C:\Users\HP\Desktop\Namaste-react\node_modules\lmdb\node_modules\node-addon-api\tools\check-napi.js133623077005056767 0
 101C:\Users\HP\Desktop\Namaste-react\node_modules\lmdb\node_modules\node-addon-api\tools\clang-format.js133623077005080261 0
@@ -5968,6 +5968,6 @@
 62C:\Users\HP\Desktop\Namaste-react\node_modules\.bin\semver.ps1133623077100203555 0
 56C:\Users\HP\Desktop\Namaste-react\node_modules\.bin\svgo133623077100203555 0
 78C:\Users\HP\Desktop\Namaste-react\node_modules\.bin\update-browserslist-db.ps1133623077100203555 0
-49C:\Users\HP\Desktop\Namaste-react\dist\index.html133624950640490990 0
-57C:\Users\HP\Desktop\Namaste-react\dist\index.9e4c6fd2.css133624950640500945 0
-61C:\Users\HP\Desktop\Namaste-react\dist\index.9e4c6fd2.css.map133624950640570976 0
+49C:\Users\HP\Desktop\Namaste-react\dist\index.html133624962274435170 0
+57C:\Users\HP\Desktop\Namaste-react\dist\index.9e4c6fd2.css133624962274455135 0
+61C:\Users\HP\Desktop\Namaste-react\dist\index.9e4c6fd2.css.map133624962274756674 0
